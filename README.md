@@ -12,7 +12,6 @@
 1. Clone the repo
     ```bash
    git clone git@github.com:qingfan007/last-pay-demo.git
-   cd <repo-folder>
    ```
 2. mvn clean package
 3. mvn spring-boot:run
