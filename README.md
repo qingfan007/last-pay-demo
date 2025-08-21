@@ -16,3 +16,6 @@
 2. mvn clean package
 3. mvn spring-boot:run
 4. Open http://localhost:8080
+
+## 🎬 Demo video show:
+https://github.com/qingfan007/last-pay-demo/assets/lastpay-demo.mp4
